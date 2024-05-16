@@ -28,7 +28,7 @@ const ShadDialogDemo = () => {
 						</label>
 						<input id="link" defaultValue="https://ui.shadcn.com/docs/installation" readOnly />
 					</div>
-					<button type="submit" size="sm" className="px-3">
+					<button type="submit"  className="px-3">
 						<span className="sr-only">Copy</span>
 					</button>
 				</div>
